@@ -128,9 +128,9 @@
 <a name="Platform"></a>
 ## Platform specifications
 
-- **Device type**: _PC_
-- **CPU**: _x86-64_ that supports _VT-x_
-- **OS**: _Windows 10_, but can be extended to older versions from the Windows NT family.
+- **Device type**: PC
+- **CPU**: x86-64 that supports VT-x
+- **OS**: Windows 10, but can be extended to older versions from the Windows NT family.
 
 
 <a name="Objectives"></a>
